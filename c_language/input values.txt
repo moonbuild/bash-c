@@ -1,0 +1,28 @@
+FCFS:
+at: 0 2 4 6 8
+bt: 2 4 6 8 10
+
+RR:
+at: 0 1 2 3
+bt: 8 5 10 11
+q: 6
+
+Average Waiting time: 14.75
+Average turn around time: 23.25
+
+Bankers:
+p=5
+r=3
+available: 3 3 2
+allocation: 
+0 1 0
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+Max matrix
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
